@@ -15,7 +15,7 @@ How have global temperature anomalies and global mean sea level changed since 19
 We plan to use two public climate datasets from NOAA.
 1. NOAA Global Temperature Anomaly Data
     Dataset source: NOAA Climate at a Glance / NOAAGlobalTemp
-    Link: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series
+    Link: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series/globe/land_ocean/tavg/1/1/1993-2026
     This dataset provides global temperature anomaly time series that can be used to analyze long-term temperature change.
 2. NOAA Global Mean Sea Level Time Series
     Dataset source: NOAA / NESDIS Global Mean Sea Level Time Series
