@@ -1,4 +1,4 @@
-# global-temperature-sea-level-project
+# Global-temperature-sea-level-project
 Global Temperature and Sea Level Change Since 1993
 
 #Group Members
